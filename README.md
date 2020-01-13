@@ -1,4 +1,4 @@
-In this assignment, I build an interactive dashboard using HTML, CSS, and JavaScript to explore the "Belly Button Biodiversity" dataset given as a .json file.
+In this assignment, I build an interactive dashboard using HTML and JavaScript to explore the "Belly Button Biodiversity" dataset given as a .json file.
 
 I use Plotly.js to build the interactive charts for the dashboard.
 
